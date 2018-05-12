@@ -1,0 +1,32 @@
+_repo: Oeuvres-compl-tes-de-Alfred-de-Musset---Tome-5_23567
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Musset, Alfred de
+    aliases:
+    - DeMusset, Alfred
+    - De Musset, Alfred
+    - Musset, Louis Charles Alfred de
+    birthdate: 1810
+    deathdate: 1857
+    gutenberg_agent_id: '1341'
+    url: http://www.gutenberg.org/2009/agents/1341
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_de_Musset
+description: ''
+gutenberg_bookshelf: FR Théâtre
+gutenberg_issued: '2007-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23567'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French literature'
+- !lcc 'PQ'
+title: Œuvres complètes de Alfred de Musset - Tome 5
+url: http://www.gutenberg.org/ebooks/23567
