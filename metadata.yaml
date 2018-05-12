@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1341
     wikipedia: http://en.wikipedia.org/wiki/Alfred_de_Musset
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23567#Oeuvres-compl-tes-de-Alfred-de-Musset---Tome-5
 gutenberg_bookshelf: FR Théâtre
 gutenberg_issued: '2007-11-20'
 gutenberg_type: Text
